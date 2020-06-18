@@ -1,5 +1,5 @@
 ---
-AWSTemplateFormatVersion: 2010-09-09
+AWSTemplateFormatVersion: 2020-06-18
 
 Description: CodePipeline for continuous integration and continuous deployment
 
